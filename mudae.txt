@@ -1,0 +1,31 @@
+# Mudae $tu states:
+
+1. All avilable (except $dk)
+Neuterion, you can claim right now! The next claim reset is in 1h 52 min.
+You have 9 rolls left. Next rolls reset in 52 min.
+$daily is available!
+
+You can react to kakera right now!
+Power: 100%
+Each kakera reaction consumes 100% of your reaction power.
+Your characters with 10+ keys consume half the power (50%)
+Stock: 996:kakera:
+
+Next $dk reset in 8 min.
+You may vote right now!
+=> $tuarrange
+
+2. Rolls/$daily/$dk not available
+Neuterion, you can claim right now! The next claim reset is in 22 min.
+You have 0 rolls left. Next rolls reset in 22 min.
+Next $daily reset in 19h 15 min.
+
+You can react to kakera right now!
+Power: 100%
+Each kakera reaction consumes 100% of your reaction power.
+Your characters with 10+ keys consume half the power (50%)
+Stock: 1165:kakera:
+
+Next $dk reset in 19h 26 min.
+You may vote right now!
+=> $tuarrange
